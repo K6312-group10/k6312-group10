@@ -13,7 +13,6 @@ Syntax highlighted code block
 
 # Dataset
 ## Code
-### Header 3
 
 - Bulleted
 - List
