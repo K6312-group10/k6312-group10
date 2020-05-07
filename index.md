@@ -1,6 +1,6 @@
 # Information Mining in IMDb Movie Dataset
 #### Welcome to group 10
-! [cover] ( /user/desktop/cover.png)
+![cover.png](https://i.loli.net/2020/05/07/1L4hFrjzbGWkUV6.png)
 #### group memeber: 
 Cai Jingyi
 Zhong Churong
