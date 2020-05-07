@@ -8,39 +8,6 @@
 You can download the [dataset](https://github.com/zhongchurong/K6312-group10/tree/master/Dataset)
 ## Code
 ### Behavior Analysis & Data Visulization
-#### Releasing Data Analysis
-```markdown
-import os
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
-data = pd.read_csv("movie.csv", sep=",")
-date = data[['date_published']].values
-print(date[0][0])
-print(len(date))
-daylist = []
-for i in range(len(date)):
-    day = date[i][0]
-    day = day.split('/')
-    day = int(day[-1])
-    #print(day)
-    daylist.append(day)
-yearlist = []
-for i in range(len(date)):
-    year = date[i][0]
-    year = year.split('/')
-    year = int(year[0])
-    yearlist.append(year)
-sns.countplot(yearlist)
-plt.xlabel('year_punished')
-plt.xticks(fontsize=10, color="black", rotation=90)
-sns.countplot(daylist)
-plt.xlabel('date_punished')
-plt.subplot
-sns.countplot(data['week'])
-plt.subplot
-sns.countplot(data['month_published'])
-comedy = data['Comedy']
-drama = data['Drama']
-```
+###### In this part, we conducted behavior analysis on the IMDb movie data to see if there is any interesting phenomenon in the movie industry. The two topics we focused on are movie genre and releasing date related phenomenon. The final result will be visualized through graphs, where insights can be gained. 
+###### You can download the [code](https://github.com/K6312-group10/k6312-group10/blob/master/Code/Visualization.ipynb)
+
