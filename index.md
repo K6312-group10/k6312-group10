@@ -1,15 +1,15 @@
 # Information Mining in IMDb Movie Dataset
 #### Welcome to group 10
 
-#### group memeber: 
-Cai Jingyi
-Zhong Churong
-Chen Yidian
-Yu Zeyuan
+#### Group member: 
+##### Cai Jingyi
+##### Zhong Churong
+##### Chen Yidian
+##### Yu Zeyuan
 
-## dataset
+## Dataset
 You can download the [dataset](https://github.com/zhongchurong/K6312-group10/tree/master/Dataset)
-## code
+## Code
 ### Behavior Analysis & Data Visulization
 #### Releasing Data Analysis
 ```markdown
