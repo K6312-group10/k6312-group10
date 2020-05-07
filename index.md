@@ -1,9 +1,17 @@
 #### Welcome to group 10
 #### group memeber: zhongchurong
+you can download the dataset [dataset](https://github.com/zhongchurong/K6312-group10/tree/master/Dataset) 
 #### code
 
-
 ## Welcome to GitHub Pages
+```markdown
+import os
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+```
+
 
 You can use the [editor on GitHub](https://github.com/zhongchurong/K6312-group10/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
