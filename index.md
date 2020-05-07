@@ -1,3 +1,7 @@
+#### Welcome to group 10
+####group memeber: zhongchurong
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zhongchurong/K6312-group10/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
