@@ -7,17 +7,17 @@ Zhong Churong
 Chen Yidian
 Yu Zeyuan
 
-
-You can download the [dataset](https://github.com/zhongchurong/K6312-group10/tree/master/Dataset) 
-#### code
-
-## Welcome to GitHub Pages
+## dataset
+You can download the [dataset](https://github.com/zhongchurong/K6312-group10/tree/master/Dataset)
+## code
+### Behavior Analysis & Data Visulization
 ```markdown
 import os
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+
 ```
 
 
