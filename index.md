@@ -2,10 +2,7 @@
 #### Welcome to group 10
 
 #### Group member: 
-##### Cai Jingyi
-##### Zhong Churong
-##### Chen Yidian
-##### Yu Zeyuan
+##### Cai Jingyi/ Zhong Churong/ Chen Yidian/ Yu Zeyuan
 
 ## Dataset
 You can download the [dataset](https://github.com/zhongchurong/K6312-group10/tree/master/Dataset)
