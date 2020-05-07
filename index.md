@@ -1,5 +1,5 @@
 # Information Mining in IMDb Movie Dataset
-##### Welcome to group 10~~~
+##### Welcome to group 10~~~~
 ![截屏2020-05-07 下午9.21.20.png](https://i.loli.net/2020/05/07/bKFlR7VEngDropN.png)
 ### Group member: 
 ### Cai Jingyi/ Zhong Churong/ Chen Yidian/ Yu Zeyuan
